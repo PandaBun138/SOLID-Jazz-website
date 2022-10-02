@@ -9,5 +9,5 @@ SOLID is actually an acronym!
 - D- Dedicated to perform to the community
 
 We provide service to our community with our many performances throughout the year! We perform at school concerts, talent show, and the annual district jazz festival at Artesia High School. 
-### Rehearsals
+## Rehearsals
 Since we do a lot of performances, it means that we have to practice together. These practices are led by our wonderful band teacher and advisor, Mr. Clements. This club is a commitment, so it is crucial that you show up to most of our practices in order to perform. We meet during lunch on Monday and Wednesdays. Each rehearsal lasts only fo 15-20 minutes, therefore it is also highly recommended that you practice the music outside of school. 
