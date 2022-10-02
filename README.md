@@ -1,5 +1,5 @@
 # Welcome to the SOLID Jazz page!
-![SOLID Jazz logo.jpg](src)
+![SOLID Jazz logo.jpg]
 SOLID Jazz is a club in Whitney High School dedicated to performing jazz music! The club has existed since 2020, so this is our third year on campus! If you play an instrument and is interested in learning jazz music, then this club is perfect for you. You don't have to be enrolled in a music class at Whitney or even play a jazz instrument to join the band. You can join the club by clicking [here](https://forms.gle/gj6mPCMLAC7Lpu3c7).
 ## What is our goal?
 SOLID is actually an acronym! 
