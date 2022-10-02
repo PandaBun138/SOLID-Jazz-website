@@ -10,7 +10,7 @@ email: whssolidjazz@gmail.com
 
 navigation:
   - name: Home Page
-    link ./
+    link: ./
     sublist:
       -name: What is our goal?
       link: ./What is our goal?
