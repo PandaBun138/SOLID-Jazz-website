@@ -21,9 +21,9 @@ navigation:
     link: ./
     sublist:
       -name: What is our goal?
-       link: ./#what-is-our-goal?
+       link: ./#what-is-our-goal
       -name: Meet-the-2022--2023-Cabinet!
-       link: ./#meet-the-2022-2023-cabinet!
+       link: ./#meet-the-2022-2023-cabinet
       -name: Rehearsals
        link: ./#rehearsals
       -name: Previous Performances
