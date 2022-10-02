@@ -16,9 +16,22 @@ Since we do a lot of performances, it means that we have to practice together. T
 - Talent Show- February 
 - Jazz Festival- March
 - Spring Concert- May 24/25
-## Previous Years' Pieces
+## Previous Performances
 ### 2020-2021
+#### Winter Concert
 - Watermelon Man by Herbie Hancock (arranged by Mike Kamuf)
 - A Charlie Brown Christmas by Vince Guaraldi (arranged by Paul Murtha)
 - Jingle Bell Rock by Joe Beal and Jim Booth (arranged by Jerry Nowak
 - Let it Snow! Let it Snow! Let it Snow! by Jule Styne (arranged by Alan Baylock)
+#### April Fools Event
+- Never Gonna Give You Up by Rick Astley (Arranged by Esther Vadillo and Melinda Wu)
+#### Spring Concert
+- Caravan by Duke Ellington, Irving Mills, and Jaun Tizol (Arranged by Michael Sweeney)
+- In the Mood by Glenn Miller (arranged by Joe Garland)
+- Chili Today, Hot Tamale by Rick Hirsch 
+#### Talent Show
+- Birdland by Josef Zawinul (Arranged by Michael Sweeney)
+#### End of the Year Concert
+- Jump Up Superstar by Mahito Yokota (Arranged by Kyro Ghebranious)
+- The Chicken by Alfred Ellis (Arranged by Mike Story)
+- Ornithology by Charlie Parker and Benny Harris (Arranged by Greg Yasinitsky)
