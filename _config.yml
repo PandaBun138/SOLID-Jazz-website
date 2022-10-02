@@ -14,6 +14,8 @@ navigation:
     sublist:
       -name: What is our goal?
       link: ./What is our goal?
+      -name: Meet the 2022-2023 Cabinet!
+      link: ./Meet the 2022-2023 Cabinet!
       -name: Rehearsals
       link: ./Rehearsals
       -name: Previous Performances
