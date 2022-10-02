@@ -7,9 +7,15 @@ title: SOLID Jazz website
 description: The official website for Whitney High School's SOLID Jazz club.
 logo: ./T-shirt Logo.heic
 email: whssolidjazz@gmail.com
-instagram: @whssolidjazz
-youtube: WHS SOLID Jazz
 
+platforms:
+  - name: Instagram
+    icon: <i class="fa-brands fa-instagram"></i>
+    link: https://www.instagram.com/whssolidjazz/?hl=en
+  - name: YouTube
+    icon: <i class="fa-brands fa-youtube"></i>
+    link: https://www.youtube.com/channel/UCwTgxJHb8H2E9NzacMFTfhA
+    
 navigation:
   - name: Home Page
     link: ./
