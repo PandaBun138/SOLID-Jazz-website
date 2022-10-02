@@ -17,7 +17,7 @@ We provide service to our community with our many performances throughout the ye
 
 ![image](SOLID Jazz Cabby Intro.jpg)
 ## Rehearsals
-Since we do a lot of performances, it means that we have to practice together. These practices are led by our wonderful band teacher and advisor, Mr. Clements. This club is a commitment, so it is crucial that you show up to most of our practices in order to perform. We meet during lunch on Monday and Wednesdays. Each rehearsal lasts only fo 15-20 minutes, therefore it is also highly recommended that you practice the music outside of school. 
+Since we do a lot of performances, it means that we have to practice together. These practices are led by our wonderful band teacher and advisor, Mr. Clements. This club is a commitment, so it is crucial that you show up to most of our practices in order to perform. We meet during lunch on Monday and Wednesdays. Each rehearsal lasts only for 15-20 minutes, therefore it is also highly recommended that you practice the music outside of school. 
 
 ## Tentative Performance Dates for the 2022-2023 School Year
 - Winter Concert- December 20/21
