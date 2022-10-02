@@ -7,4 +7,5 @@ SOLID is actually an acronym!
 - L- Learners of jazz music and culture
 - I- Inspirations to the world
 - D- Dedicated to perform to the community
+
 We provide service to our community through our many performances throughout the year! We perform at school concerts, talent show, and the annual district jazz festival at Artesia High School. 
