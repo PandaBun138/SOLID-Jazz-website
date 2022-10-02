@@ -26,12 +26,29 @@ Since we do a lot of performances, it means that we have to practice together. T
 #### April Fools Event
 - Never Gonna Give You Up by Rick Astley (Arranged by Esther Vadillo and Melinda Wu)
 #### Spring Concert
-- Caravan by Duke Ellington, Irving Mills, and Jaun Tizol (Arranged by Michael Sweeney)
+- Caravan by Duke Ellington, Irving Mills, and Jaun Tizol (arranged by Michael Sweeney)
 - In the Mood by Glenn Miller (arranged by Joe Garland)
 - Chili Today, Hot Tamale by Rick Hirsch 
 #### Talent Show
-- Birdland by Josef Zawinul (Arranged by Michael Sweeney)
+- Birdland by Josef Zawinul (arranged by Michael Sweeney)
 #### End of the Year Concert
-- Jump Up Superstar by Mahito Yokota (Arranged by Kyro Ghebranious)
-- The Chicken by Alfred Ellis (Arranged by Mike Story)
-- Ornithology by Charlie Parker and Benny Harris (Arranged by Greg Yasinitsky)
+- Jump Up Superstar by Mahito Yokota (arranged by Kyro Ghebranious)
+- The Chicken by Alfred Ellis (arranged by Mike Story)
+- Ornithology by Charlie Parker and Benny Harris (arranged by Greg Yasinitsky)
+### 2021-2022
+#### Winter Concert
+- Fly me to the Moon
+- Deck the Halls arranged by Mike Collins-Dowden
+#### Talent Show
+- Fly me to the Moon
+- Traces by Buddy Buie, J. R. Cobb, and Emory Gordy Jr.
+- Mr. P.C. by John Coltrane (arranged by Terry White)
+#### District Jazz Festival
+- Traces by Buddy Buie, J. R. Cobb, and Emory Gordy Jr.
+- Mr. P.C. by John Coltrane (arranged by Terry White)
+#### Spring Concert
+- Traces by Buddy Buie, J. R. Cobb, and Emory Gordy Jr.
+- Mr. P.C. by John Coltrane (arranged by Terry White)
+- Steam Gardens by Koji Kondo (arranged by Kyro Ghebranious)
+- Chili Today, Hot Tamale by Rick Hirsch 
+- Never Gonna Give You Up by Rick Astley (Arranged by Esther Vadillo and Melinda Wu)
