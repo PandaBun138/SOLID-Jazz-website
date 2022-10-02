@@ -9,12 +9,12 @@ logo: /assets/img/<SOLID Jazz logo.jpg>
 email: whssolidjazz@gmail.com
 
 navigation:
-- name: Home Page
-  link ./
-  sublist:
-  -name: What is our goal?
-  link: ./What is our goal?
-  -name: Rehearsals
-  link: ./Rehearsals
-  -name: Previous Performances
-  link: ./Previous Performances 
+  - name: Home Page
+    link ./
+    sublist:
+      -name: What is our goal?
+      link: ./What is our goal?
+      -name: Rehearsals
+      link: ./Rehearsals
+      -name: Previous Performances
+      link: ./Previous Performances 
