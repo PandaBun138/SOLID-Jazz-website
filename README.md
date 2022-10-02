@@ -8,4 +8,4 @@ SOLID is actually an acronym!
 - I- Inspirations to the world
 - D- Dedicated to perform to the community
 
-We provide service to our community through our many performances throughout the year! We perform at school concerts, talent show, and the annual district jazz festival at Artesia High School. 
+We provide service to our community with our many performances throughout the year! We perform at school concerts, talent show, and the annual district jazz festival at Artesia High School. 
