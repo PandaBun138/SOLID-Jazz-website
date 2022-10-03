@@ -73,3 +73,5 @@ Since we do a lot of performances, it means that we have to practice together. T
 - Never Gonna Give You Up by Rick Astley (Arranged by Esther Vadillo and Melinda Wu)
 
 ### Image Gallery
+![image](Winter Concert.jpg)
+![image](Festival.jpg)
